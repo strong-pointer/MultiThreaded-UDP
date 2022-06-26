@@ -1,5 +1,5 @@
 # MultiThreaded-UDP
-Using C Multithreading for a UDP Server/Client
+Using C Multithreading and Networking for a UDP Server/Client
 _________________________________________________
 *** Only run and tested on Linux-based machines due to the use of C multi-threading and networking ***
 
@@ -16,3 +16,5 @@ How to use:
   * For Client mode, there needs to be an IP address specified at the end of the Command Line Arguments
 
 'make clean' removes any files from the compilation process
+
+Credit to [this book](http://cs.baylor.edu/~donahoo/practical/CSockets2/textcode.html) for **some** of the starter networking code.
