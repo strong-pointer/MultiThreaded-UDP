@@ -1,5 +1,6 @@
 # MultiThreaded-UDP
 Using C Multithreading and Networking for a UDP Server/Client
+- Calculates Round Trip Time minimum/average/maximum statistics at the end, alongside the total time and received packet count
 _________________________________________________
 *** Only run and tested on Linux-based machines due to the use of C multi-threading and networking ***
 
